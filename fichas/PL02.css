@@ -1,3 +1,7 @@
 #cabecalho{
     text-align: center;
 }
+span{
+    background-color: rgb(151, 17, 17); 
+    color: white;
+}
