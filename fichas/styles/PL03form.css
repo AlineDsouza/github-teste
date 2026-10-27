@@ -1,5 +1,26 @@
+*{
+   font-family: sans-serif; 
+   
+}
 body { 
-    background-color: lightgrey; 
+    background-color: rgb(239, 250, 253); 
     padding: 20px; 
     text-align: center; 
 } 
+.navegacao{
+    text-align: center;
+
+}
+.navegacao a{
+    background-color:  rgb(44, 55, 58);
+    border-radius: 15px;
+    margin: 10px;
+    color: aliceblue;
+    padding: 8px;
+}
+a{
+    text-decoration: none;
+}
+.logo{
+    border-radius: 100px;
+}
